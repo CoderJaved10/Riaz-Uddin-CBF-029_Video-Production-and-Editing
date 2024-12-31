@@ -33,7 +33,7 @@ Welcome to the **Video Production and Editing Training Program**. This foundatio
 | Field                   | Details                                                                 |
 |-------------------------|-------------------------------------------------------------------------|
 | **Name:**               | Riaz Uddin                                                        |
-| **Mobile No:**          | +881826496899                                                            |
+| **Mobile No:**          | +8801826496899                                                            |
 | **Email ID:**           | mr.designerjaved10@gmail.com                                                  |
 | **LinkedIn Profile:**   | ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) [Connect on LinkedIn](https://www.linkedin.com/in/javed10/) |
 | **GitHub Profile:**     | ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github) [Visit GitHub](https://github.com/CoderJaved10) |
